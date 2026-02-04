@@ -3,7 +3,8 @@
 ## Step 1: Choose a version
 First choose which version you want (**Unmodded** or **Modded**).
 
-<img src="https://i.imgur.com/QmwxTMt.png" alt="Unmodded or Modded selection" width="50%">
+[Unmodded](https://drive.google.com/uc?export=download&id=191YTi-paKqGD0jOVP1YbKwo39E8y2Ahb)
+[Modded](https://drive.google.com/uc?export=download&id=1b2hgOsqEDjKuYC7CZi4zfFBcwsMBGHSz)
 
 ---
 
